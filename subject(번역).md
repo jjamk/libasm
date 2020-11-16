@@ -6,7 +6,7 @@ thanks, papago
 3. inline ASM을 할 수 없고 '.s' 파일을 해야 한다.
 4. 어셈블리 코드를 nasm으로 컴파일해야 한다.
 5. AT&T가 아닌 Intel syntax을 사용해야 한다.
--
+<\br>
 1. The library must be called libasm.a.
 2. 기능을 테스트하고 컴파일할 메인을 제출해야 한다.
 라이브러리가 제대로 작동하는지 보여줄 수 있을 겁니다.
