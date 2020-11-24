@@ -3,9 +3,11 @@
 int main(void)
 {
 	char *str;
-
-	str="hello";
-	printf("strlen: %lu\n", ft_strlen(str));
+	str1="hello";
+		
+	printf("strlen: %lu | ft_strlen: %lu\n", strlen(str), ft_strlen(str));
+	printf("strlen: %lu | ft_strlen: %lu\n", strlen(""), ft_strlen(""));
+	printf("strlen: %lu | ft_strlen: %lu\n", strlen(), ft_strlen());
 	char *s1 = "hellb";
 	char *s2 = "hella";
 	printf("strcmp: %d\n", ft_strcmp(s1,s2));
