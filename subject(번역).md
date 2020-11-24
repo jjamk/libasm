@@ -10,7 +10,7 @@ thanks, papago
 
 1. The library must be called libasm.a.
 2. 기능을 테스트하고 컴파일할 메인을 제출해야 한다.
-라이브러리가 제대로 작동하는지 보여줄 수 있을 겁니다.
+라이브러리가 제대로 작동하는지 보여줄 수 있을 겁니다.<br>
 ◦ ft_strlen (man 3 strlen)<br>
 ◦ ft_strcpy (man 3 strcpy)<br>
 ◦ ft_strcmp (man 3 strcmp)<br>
