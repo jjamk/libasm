@@ -18,5 +18,5 @@ thanks, papago
 ◦ ft_read (man 2 read)<br>
 ◦ ft_strdup (man 3 strdup, you can call to malloc)
 3. syscall 중에 오류를 확인하고 필요할 때 적절하게 설정해야 함
-4. For that, you are allowed to call the extern ___error. <- fd가 에러를 내뱉은경우 에러주소값 리턴하는 함수라이브러리?
+4. For that, you are allowed to call the extern ___error. <- fd가 에러를 내뱉은경우 에러주소값 리턴하는 함수
 
